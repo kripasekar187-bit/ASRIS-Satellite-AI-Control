@@ -28,5 +28,4 @@ ASRIS is a professional-grade **Predictive Mission Control Dashboard** that uses
 - **Language:** Python
 - **AI Framework:** Scikit-Learn
 - **Dashboard:** Streamlit
->>>>>>> 198051d (Initial commit of ASRIS Project)
 - **Visuals:** Plotly
